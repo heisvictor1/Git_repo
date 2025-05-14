@@ -1,5 +1,3 @@
-
-```markdown
 # 🌐 Personal Portfolio Website
 
 Welcome to the source code of my personal portfolio website!  
@@ -9,7 +7,6 @@ I’m a passionate **Web Developer** and a **Certified Cybersecurity Specialist*
 
 I'm a developer who enjoys building clean, responsive, and user-friendly web applications with a focus on performance and security. With a strong foundation in both **frontend/backend development** and **cybersecurity best practices**, I create websites that are not only functional and beautiful but also secure.
 
----
 
 ## 🚀 Tech Stack
 
@@ -30,7 +27,6 @@ I'm a developer who enjoys building clean, responsive, and user-friendly web app
 - Penetration Testing
 - Network & Web App Security
 
----
 
 ## 🛡️ Features
 
@@ -42,12 +38,9 @@ I'm a developer who enjoys building clean, responsive, and user-friendly web app
 - SEO-optimized & fast-loading
 - Secure headers and best practices implemented
 
----
-
 ## 📁 Folder Structure
 
-```
-
+````
 .
 ├── public/                # Static files
 ├── src/                   # Source files
@@ -61,8 +54,6 @@ I'm a developer who enjoys building clean, responsive, and user-friendly web app
 └── .env                   # Environment variables
 
 ````
-
----
 
 ## ⚙️ Installation & Setup
 
@@ -80,19 +71,16 @@ npm install
 npm start
 ````
 
----
 
 ## 🌍 Live Demo
 
 👉 [View Live Site](https://vercel.app.devfinders)
 
----
 
 ## 📜 License
 
 This project is open-source and available under the [MIT License](LICENSE).
 
----
 
 ## 📫 Contact
 
@@ -102,7 +90,6 @@ If you'd like to connect or have any questions:
 * LinkedIn: [linkedin.com/in/abangayoma](https://linkedin.com/in/abangayoma)
 * GitHub: [@abangayoma](https://github.com/abangayoma)
 
----
 
 ## 🔐 Security Note
 
@@ -112,7 +99,5 @@ As a cybersecurity specialist, I’ve implemented basic security practices such 
 * Form validation & sanitization
 * HTTPS enforcement
 * XSS and CSRF protection (if applicable)
-
----
 
 ```
